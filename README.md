@@ -3,7 +3,7 @@ Lien: https://petitetambouille.github.io/recettes/index.html
 
 **Attention, ne pas toucher le dossier nommé "CSS"**
 
-Pour ajouter une recette c'est **SUPER FACILE, à condition de maitriser le copier/collé**
+Pour ajouter une recette c'est **SUPER FACILE, à condition de maitriser le copier/coller**
 1. Aller dans la page appropriée
 2. Compléter le bout de code & Ajouter entre des recettes dans la page appropriée
 3. Ajouter un lien dans le menu sur la page principale
